@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - Usable
+  - gun
+  - WeaponBag
+  - Ammo
+  - Edible
+  - Flesh
+  - NoHitMark
+  - DeadFlesh
+  - zombieHead
+  - Wood
+  - House
+  - Terrian
+  - StartMenu
+  - rock
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - terrian
+  - gun
+  - pickup
+  - shell
+  - ammo
+  - zombie
+  - sightbead
+  - deadzombie
+  - player
+  - wallcollider
+  - housecollider
+  - house
+  - rock
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

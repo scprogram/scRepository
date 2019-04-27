@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 819da28963888a443b378aa2cae103e7
+timeCreated: 1548210830
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainObj: {instanceID: 0}
+  - weaponObj: {instanceID: 0}
+  - CameraObj: {fileID: 100000, guid: 8288b0b7bcb117e47a05af7dc9419a4f, type: 3}
+  - myTransform: {instanceID: 0}
+  - capsule: {instanceID: 0}
+  - landfx: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
